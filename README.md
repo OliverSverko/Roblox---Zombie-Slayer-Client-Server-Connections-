@@ -3,7 +3,7 @@
 Studio: SoupForStudio
 Main Developers: Oliver Sverko & Maxwell C. Wuchter
 
-Completed repository for the 1st publicly available roblox game. The repository has 2 main parts under the "Lobby" and 
+Completed repository for the Studio's 1st publicly available roblox game. The repository has 2 main parts under the "Lobby" and 
 1st map "Hospital Map". Each map will be divided into ReplicatedStorage, ServerScriptService, ServerStorage, StarterPlayer, 
 and other imbedded local scripts within the Workspace or GUI components.
 
