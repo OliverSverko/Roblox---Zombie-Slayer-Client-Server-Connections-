@@ -1,6 +1,6 @@
 -- ServerScriptService > DoorPromptHandler
 
-local DoorService = require(script.DoorService)
+local DoorService = require(script.Parent.DoorService)
 
 local doorsData = DoorService:DoorData()
 
@@ -33,3 +33,4 @@ for doorName, doorInfo in pairs(doorsData) do
 		end
 	end
 end
+
